@@ -20,10 +20,23 @@
   </a>
 </p>
 
-<p><small>Tools that I use at work:</small> <br />
+<b>My stack:</b>
+<p> Others:<br />
   <img 
        src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
        alt="VS Code"
+  />
+  <img 
+       src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"
+       alt="Windows"
+  />
+  <img 
+       src="http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff"
+       alt="Debian"
+  />
+  <img 
+       src="http://img.shields.io/badge/-Arch_Linux-A81D33?style=flat-square&logo=archlinux&logoColor=ffffff"
+       alt="Arch Linux"
   />
 </p>
 </details>
