@@ -21,7 +21,7 @@
 </p>
 
 <b>My stack:</b>
-<p> Front End:<br />
+<p> Frontend:<br />
   <img 
        src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"
        alt="HTML5"
@@ -62,6 +62,10 @@
   <img 
        src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
        alt="VS Code"
+  />
+  <img
+       src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"
+       alt="Docker"
   />
 </p>
 </details>
