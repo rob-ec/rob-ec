@@ -71,5 +71,9 @@
        src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"
        alt="Git"
   />
+  <img 
+       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"
+       alt="GitHub"
+  />
 </p>
 </details>
