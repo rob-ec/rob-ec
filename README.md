@@ -23,7 +23,7 @@
 <b>My stack:</b>
 <p> Front End:<br />
   <img 
-       src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"
+       src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5"
        alt="HTML5"
   />
   <img 
