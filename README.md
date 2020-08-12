@@ -47,6 +47,14 @@
   <img
        src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery"
        alt="jQuery"
+  /><br />
+  <img
+       src="https://img.shields.io/badge/-Gimp-5C5543?style=flat-square&logo=gimp"
+       alt="Gimp"
+  />
+  <img
+       src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape"
+       alt="Inkscape"
   />
 </p>
 <p> Backend/Database:<br />
@@ -65,16 +73,8 @@
 </p>
 <p> OS:<br />
   <img 
-       src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"
-       alt="Windows"
-  />
-  <img 
        src="http://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff"
        alt="Arch Linux"
-  />
-  <img 
-       src="http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff"
-       alt="Debian"
   />
 </p>
 
@@ -98,6 +98,18 @@
   <img
        src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer"
        alt="Composer"
+  /><br />
+  <img
+       src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=FFFFFF"
+       alt="Yarn"
+  />
+  <img
+       src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=NPM"
+       alt="NPM"
+  />
+  <img
+       src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF"
+       alt="Node"
   />
 </p>
 </details>
