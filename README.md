@@ -43,6 +43,16 @@
        alt="jQuery"
   />
 </p>
+<p> Backend/Database:<br />
+  <img 
+       src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"
+       alt="PHP"
+  />
+  <img 
+       src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=FFFFFF"
+       alt="MariaDB"
+  />
+</p>
 <p> OS:<br />
   <img 
        src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"
