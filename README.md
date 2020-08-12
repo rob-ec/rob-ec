@@ -12,12 +12,18 @@
 
 
 <p>Other Contacts:
-[![Gmail Badge](https://img.shields.io/badge/-Robson_Gomes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:robson.mesquita56@gmail.com)
-  
+  <a href="mailto:robson.mesquita56@gmail.com">
+    <img
+         src="https://img.shields.io/badge/-Robson_Gomes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.mesquita56@gmail.com"     
+         alt="robson.mesquita56@gmail.com"
+    />
+  </a>
 </p>
 
-<p>Some Tools:
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-  
+<p>Some Tools I use at work:
+  <img 
+       src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
+       alt="VS Code"
+  />
 </p>
 </details>
