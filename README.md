@@ -18,6 +18,12 @@
          alt="robson.mesquita56@gmail.com"
     />
   </a>
+  <a href="https://t.me/rob_ec">
+    <img
+         src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram"     
+         alt="Telegram: t.me/rob_ec"
+    />
+  </a>
 </p>
 
 <b>My stack:</b>
