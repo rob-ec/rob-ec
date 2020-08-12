@@ -21,6 +21,28 @@
 </p>
 
 <b>My stack:</b>
+<p> Front End:<br />
+  <img 
+       src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"
+       alt="HTML5"
+  />
+  <img 
+       src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"
+       alt="CSS3"
+  />
+  <img
+       src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"
+       alt="JavaScript"
+  />
+  <img
+       src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"
+       alt="React"
+  />
+  <img
+       src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery"
+       alt="jQuery"
+  />
+</p>
 <p> OS:<br />
   <img 
        src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"
