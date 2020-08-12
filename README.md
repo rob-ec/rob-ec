@@ -14,7 +14,7 @@
 <p><small>Get in touch: </small><br />
   <a href="mailto:robson.mesquita56@gmail.com">
     <img
-         src="https://img.shields.io/badge/-Robson_Gomes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.mesquita56@gmail.com"     
+         src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.mesquita56@gmail.com"     
          alt="robson.mesquita56@gmail.com"
     />
   </a>
@@ -81,13 +81,17 @@
        src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"
        alt="Docker"
   />
+  <img 
+       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"
+       alt="GitHub"
+  />
   <img
        src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"
        alt="Git"
   />
-  <img 
-       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"
-       alt="GitHub"
+  <img
+       src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer"
+       alt="Composer"
   />
 </p>
 </details>
