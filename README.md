@@ -11,7 +11,7 @@
 <summary> <b> More </b></summary>
 
 
-<p>Other Contacts:
+<p><small>Get in touch: </small><br />
   <a href="mailto:robson.mesquita56@gmail.com">
     <img
          src="https://img.shields.io/badge/-Robson_Gomes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.mesquita56@gmail.com"     
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p>Some Tools I use at work:
+<p><small>Tools that I use at work:</small> <br />
   <img 
        src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
        alt="VS Code"
