@@ -67,5 +67,9 @@
        src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"
        alt="Docker"
   />
+  <img
+       src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"
+       alt="Git"
+  />
 </p>
 </details>
