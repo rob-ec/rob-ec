@@ -8,7 +8,7 @@
 
 <details align="center">
 
-<summary> <b> More </b></summary>
+<summary> <b> Show More </b></summary>
 
 
 <p><small>Get in touch: </small><br />
