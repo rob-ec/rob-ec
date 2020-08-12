@@ -35,7 +35,7 @@
        alt="Debian"
   />
   <img 
-       src="http://img.shields.io/badge/-Arch_Linux-A81D33?style=flat-square&logo=archlinux&logoColor=ffffff"
+       src="http://img.shields.io/badge/-Arch_Linux-A81D33?style=flat-square&logo=arch&logoColor=ffffff"
        alt="Arch Linux"
   />
 </p>
