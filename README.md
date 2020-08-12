@@ -44,13 +44,17 @@
   />
 </p>
 <p> Backend/Database:<br />
-  <img 
-       src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"
-       alt="PHP"
+  <img
+       src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache"
+       alt="apache"
   />
   <img 
        src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=FFFFFF"
        alt="MariaDB"
+  />
+  <img 
+       src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"
+       alt="PHP"
   />
 </p>
 <p> OS:<br />
