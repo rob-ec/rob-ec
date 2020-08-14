@@ -110,6 +110,14 @@
   <img
        src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF"
        alt="Node"
+  /><br />
+  <img
+       src="https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=c&logoColor=FFFFFF"
+       alt="C"
+  />
+  <img
+       src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"
+       alt="Java"
   />
 </p>
 </details>
