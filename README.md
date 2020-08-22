@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<p><small>Resume: </small><br />
+<p><small>Resume/CV: </small><br />
   <a href="https://github.com/rob-ec/rob-ec/raw/master/resume.pdf">
     <img
          src="https://img.shields.io/badge/-English-1F6B75.svg?&style=flat-square&logo=DocuSign&logoColor=white"
