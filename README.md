@@ -25,6 +25,12 @@
          alt="Telegram: t.me/rob_ec"
     />
   </a>
+  <a href="https://gitlab.com/rob-ec">
+    <img
+         src="https://img.shields.io/badge/-Gitlab-212121?style=flat-square&logo=GitLab"     
+         alt="GitLab: rob-ec"
+    />
+  </a>
 </p>
 
 <p><small>Resume/CV: </small><br />
