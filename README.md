@@ -102,6 +102,10 @@
 
 <p> Others:<br />
   <img 
+       src="http://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=ffffff"
+       alt="WordPress"
+  />
+  <img 
        src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
        alt="VS Code"
   />
