@@ -93,12 +93,6 @@
        alt="PHP"
   />
 </p>
-<p> OS:<br />
-  <img 
-       src="http://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff"
-       alt="Arch Linux"
-  />
-</p>
 
 <p> Others:<br />
   <img 
