@@ -7,6 +7,6 @@
 </p>
 
 <h4>Know more:</h4>
-<a href="https://www.linkedin.com/in/robson-m-gomes/">
+<a href="https://www.linkedin.com/in/robson-m-gomes/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
