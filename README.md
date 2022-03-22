@@ -10,3 +10,6 @@
 <a href="https://www.linkedin.com/in/robson-m-gomes/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="http://lattes.cnpq.br/6506282888397064" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
+</a>
