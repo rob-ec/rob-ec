@@ -7,12 +7,15 @@
   check my <a href="resume.pdf">resume</a>.
 </p>
 
-```js
-var life = new Life();
+```php
+<?php
 
-life.setPremise("Everything that exists started with a dream");
+  $life = new Life();
 
-life.begin(); // Come find out with me what happens from here
+  $life->setPremise("Everything that exists started with a dream");
+  $life->dream->begin(); 
+  
+  // Come find out with me what happens from here
 ```
 
 <h4>know more:</h4>
