@@ -3,7 +3,7 @@
 <p>
   Software Developer with knowledge in graphic design. 
   See my repositories to know some of my works and to a general view 
-  check my <a href="resume.pdf">resume</a> (<em>também disponível em <a href="resume.pt-BR.pdf">pt-BR</a></em>).
+  check my <a href="resume.pdf">resume</a>.
 </p>
 
 <h4>Know more:</h4>
