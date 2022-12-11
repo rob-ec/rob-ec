@@ -7,6 +7,8 @@
   check my <a href="resume.pdf">resume</a>.
 </p>
 
+<h5>code:</h5>
+
 ```php
 <?php
 
@@ -18,7 +20,7 @@
   // Come find out with me what happens from here
 ```
 
-<h4>know more:</h4>
+<h5>know more:</h5>
 
 <a href="https://github.com/rob-ec/rob-ec/raw/main/resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download_Resume-289C6A?style=for-the-badge&logo=DocuSign&logoColor=white" />
@@ -30,4 +32,4 @@
 
 <a href="http://lattes.cnpq.br/6506282888397064" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
-</a> <br>
+</a>
