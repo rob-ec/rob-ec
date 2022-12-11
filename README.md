@@ -2,7 +2,7 @@
 <p><i>You can call me Rob</i> :wink: </p>
 
 <p>
-  I'm Software Developer with knowledge in graphic design. 
+  I'm a Software Developer with knowledge in graphic design. 
   See my repositories to know some of my works and to a general view 
   check my <a href="resume.pdf">resume</a>.
 </p>
