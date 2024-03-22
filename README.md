@@ -4,7 +4,7 @@
 <p>
   I'm a Software Developer with knowledge in graphic design. 
   See my repositories to know some of my works and to a general view 
-  check my <a href="resume.pdf">resume</a>.
+  check my <a href="resume.pdf">resume</a> or visit my <a href="https://robsongomes.me">website</p>a.
 </p>
 
 <h5>code:</h5>
