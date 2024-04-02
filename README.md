@@ -1,10 +1,10 @@
-<h3> :wave: <b>Hii!!!</b></h3>
+<h3> :wave: <b>Hiii!!!</b></h3>
 <p><i>You can call me Rob</i> :wink: </p>
 
 <p>
   I'm a Software Developer with knowledge in graphic design. 
   See my repositories to know some of my works and to a general view 
-  check my <a href="resume.pdf">resume</a> or visit my <a href="https://robsongomes.me">website</p>a.
+  check my <a href="resume.pdf">resume</a> or visit my <a href="https://robsongomes.me">website</a>.</p>
 </p>
 
 <h5>code:</h5>
