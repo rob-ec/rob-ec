@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/rob-ec/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=FFFFFF" />
+</a>
+
 <a href="http://lattes.cnpq.br/6506282888397064" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
 </a>
