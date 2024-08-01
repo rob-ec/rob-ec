@@ -4,7 +4,7 @@
 <p>
   I'm a Software Developer with knowledge in graphic design. 
   See my repositories to know some of my works and to a general view 
-  check my <a href="resume.pdf">resume</a> or visit my <a href="https://robsongomes.me">website</a>.</p>
+  check my <a href="CV_RobsonGomes_Dev(EN).pdf">resume</a> (also available in <a href="CV_RobsonGomes_Dev(PT).pdf">pt-BR</a>) or visit my <a href="https://robsongomes.me">website</a>.</p>
 </p>
 
 <h5>code:</h5>
@@ -22,7 +22,7 @@
 
 <h5>know more:</h5>
 
-<a href="https://github.com/rob-ec/rob-ec/raw/main/resume.pdf" target="_blank">
+<a href="https://github.com/rob-ec/rob-ec/raw/main/CV_RobsonGomes_Dev(EN).pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download_Resume-289C6A?style=for-the-badge&logo=DocuSign&logoColor=white" />
 </a>
 
