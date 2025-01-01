@@ -1,8 +1,8 @@
 <h3> :wave: <b>Hiii!!!</b></h3>
-<p><i>You can call me Rob</i> :wink: </p>
+<p><i>You can call me Rob!</i> :wink: </p>
 
 <p>
-  I'm a Software Developer with knowledge in graphic design. 
+  I'm a solutions developer who loves new challenges. 
   See my repositories to know some of my works and to a general view 
   check my <a href="CV_RobsonGomes_Dev(EN).pdf">resume</a> (also available in <a href="CV_RobsonGomes_Dev(PT).pdf">pt-BR</a>) or visit my <a href="https://robsongomes.me">website</a>.</p>
 </p>
